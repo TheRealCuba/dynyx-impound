@@ -1,3 +1,7 @@
+# Changes
+
+The menu is only visible and openable with the job police.
+
 # dynyx-impound
 
 | Join my discord server [here](https://discord.gg/A4gVRjnvaE) |
