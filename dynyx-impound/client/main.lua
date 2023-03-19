@@ -9,8 +9,9 @@ CreateThread(function()
                 label = "Impound Request",
                 event = "dynyx-impound:client:OpenImpoundMenu",
                 distance = 1.3
+                job = 'police',
             }
-        }
+        },
     })
 end)
 
